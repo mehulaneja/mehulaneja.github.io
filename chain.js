@@ -8,7 +8,7 @@ function preload(){
     game.load.image('green-atom-1','green-atom-1.png');
     game.load.image('red-atom-1','red-atom-1.png');
     game.load.image('howtoplay1','HowToPlay/howtoplay1.png');
-    game.load.image('howtoplay2','HowToPlay/howtoplay2.PNG');
+    game.load.image('howtoplay2','HowToPlay/howtoplay2.png');
     game.load.image('continue','continue.png');
     game.load.image('play','play.png');
 }
